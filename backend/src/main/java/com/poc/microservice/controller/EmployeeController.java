@@ -78,6 +78,7 @@ public class EmployeeController {
     @ResponseStatus(value = HttpStatus.OK)
     @ApiOperation("Retrieve all Employee Details")
     public List<Employee> getEmployees() {
+        LOGGER.error("in EmployeeController.getEmployees");
         return employeeService.getEmployees();
     }
 
