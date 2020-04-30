@@ -17,7 +17,7 @@
     "bootstrap-vue": "^2.0.0-rc.18",
     "css-loader": "^2.1.1",
     "img": "^3.0.3",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "js-loader": "^0.1.1",
     "style-loader": "^0.23.1",
     "vue": "^2.6.10",
