@@ -18,9 +18,9 @@ public class EmployeeUtil {
                 lastId =1L;
                 Employee newEmployee = new Employee();
                 newEmployee.setId(lastId);
-                newEmployee.setName( "Param");
-                newEmployee.setCompany("Deloitte LLP");
-                newEmployee.setProject("WA HBE");
+                newEmployee.setName( "Joe");
+                newEmployee.setCompany("HGC");
+                newEmployee.setProject("Test Project");
                 newEmployee.setTechnology("Front end");
                 newEmployee.setUrl("men.png");
                 employeeList.add(newEmployee);
@@ -28,9 +28,9 @@ public class EmployeeUtil {
                 lastId ++;
                 newEmployee = new Employee();
                 newEmployee.setId(lastId);
-                newEmployee.setName("Sakthi" );
-                newEmployee.setCompany("Deloitte LLP");
-                newEmployee.setProject("WA HBE");
+                newEmployee.setName("Lori" );
+                newEmployee.setCompany("HGC");
+                newEmployee.setProject("Test Project");
                 newEmployee.setTechnology("Front and back end");
                 newEmployee.setUrl("women.png");
                 employeeList.add(newEmployee);
@@ -39,8 +39,8 @@ public class EmployeeUtil {
                 newEmployee = new Employee();
                 newEmployee.setId(lastId);
                 newEmployee.setName("Lukman");
-                newEmployee.setCompany("Deloitte LLP");
-                newEmployee.setProject("WA HBE");
+                newEmployee.setCompany("HGC");
+                newEmployee.setProject("Test Project");
                 newEmployee.setTechnology("Back end");
                 newEmployee.setUrl("men.png");
                 employeeList.add(newEmployee);

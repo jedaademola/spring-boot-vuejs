@@ -7,7 +7,7 @@
     export default{
         data(){
             return{
-                content:"@ Deloitte LLP"
+                content:"@ Lukman  LLP"
             }
         }
     }

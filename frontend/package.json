@@ -12,12 +12,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.18",
     "css-loader": "^2.1.1",
     "img": "^3.0.3",
-    "jquery": "^3.5.0",
+    "jquery": "^3.4.0",
     "js-loader": "^0.1.1",
     "style-loader": "^0.23.1",
     "vue": "^2.6.10",
@@ -33,7 +33,7 @@
     "ajv": "^6.10.0",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^23.6.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.11.0",
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.6.10"
   },
